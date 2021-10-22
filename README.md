@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-Project developed for student purposes
+Projeto desenvolvido com propósitos estudantis
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/marlonsilva21/cloneFacebook-backend.svg">
@@ -47,7 +47,7 @@ Project developed for student purposes
 
 ### Usando git (recomendado)
 
-1.  Clone the project from github. 
+1.  Clone o projeto do github. 
 
 ```bash
 git clone https://github.com/MarlonSilva21/cloneFacebook-backend.git
